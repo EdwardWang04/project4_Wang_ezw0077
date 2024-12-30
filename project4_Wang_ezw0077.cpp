@@ -12,14 +12,6 @@ https://www.geeksforgeeks.org/linked-list-of-linked-list/: tutorial of how to de
 https://stackoverflow.com/questions/313970/how-to-convert-an-instance-of-stdstring-to-lower-case: make everything lowercase without usage of arrays/etc
 https://www.geeksforgeeks.org/remove-first-node-of-the-linked-list/: how to delete head of linked list
 https://stackoverflow.com/questions/40575482/debug-mode-or-release-mode go in and out of debug mode
-
-AI is allowed in our class. But before submitting any files, please clarify the following questions.
-Otherwise, you may receive ZERO if TA receives highly similar/identical solutions from other students.
-1. What AI service. i.e. ChatGPT: I used ChatGPT
-2. What questions/code issues you have: 1: i needed a way to format all my code and optimize it. 2: traversing the linked list in accordance to unanswered questions
-3. What keywords/statement you entered: "how can i make my code more readable", "if i needed to traverse a linked list based on whether the questions were answered or not, how would i do it"
-4. How solutions from AI technology are integrated in your code. 1: makes code way easier to read, 2: allowed me to solve a question I had when doing the project
-your solutions:
 */
 
 using namespace std;
